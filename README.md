@@ -23,7 +23,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 
 Here are quick walkthroughs showing the chatbots running live on both platforms:  
 
-![Demo Image](./images/Rag.png)
+![Rag workflow Image](./images/Rag.png)
 
 
 ### 🚀 Streamlit Cloud Demo  
