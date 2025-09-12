@@ -42,7 +42,7 @@ Each chatbot (RAG type) has **two deployment folders**:
 
 | Chatbot      | Hugging Face Folder | Streamlit Folder |
 |--------------|----------------------|------------------|
-| 🤖 **General_RAG** | [HuggingFace_Cloud](./General_RAG/HuggingFace%20cloud) | [Streamlit_Cloud](./General_RAG/Streamlit_Cloud) |
+| 🤖 **General_RAG** | [HuggingFace_Cloud](./General_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./General_RAG/Streamlit_Cloud) |
 | 🧠 **Self_RAG**   | [HuggingFace_Cloud](./Self_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Self_RAG/Streamlit_Cloud) |
 | 🕵️ **Hyde_RAG**   | [HuggingFace_Cloud](./Hyde_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyde_RAG/Streamlit_Cloud) |
 | ⚡ **Hyqe_RAG**   | [HuggingFace_Cloud](./Hyqe_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyqe_RAG/Streamlit_Cloud) |
