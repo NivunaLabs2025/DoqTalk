@@ -36,7 +36,18 @@ Here are quick walkthroughs showing the chatbots running live on both platforms:
 
 ## 📂 Project Structure  
 
-(Example tree, keep updated with your repo)  
+Each chatbot (RAG type) has **two deployment folders**:  
+- 🌐 **HuggingFace_Cloud** → Code to deploy on Hugging Face Spaces  
+- 🚀 **Streamlit_Cloud** → Code to deploy on Streamlit Cloud  
+
+| Chatbot      | Hugging Face Folder | Streamlit Folder |
+|--------------|----------------------|------------------|
+| 🤖 **General_RAG** | [HuggingFace_Cloud](./General_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./General_RAG/Streamlit_Cloud) |
+| 🧠 **Self_RAG**   | [HuggingFace_Cloud](./Self_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Self_RAG/Streamlit_Cloud) |
+| 🕵️ **Hyde_RAG**   | [HuggingFace_Cloud](./Hyde_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyde_RAG/Streamlit_Cloud) |
+| ⚡ **Hyqe_RAG**   | [HuggingFace_Cloud](./Hyqe_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyqe_RAG/Streamlit_Cloud) |
+
+📌 This way, you don’t need to show the full folder tree. Readers can **click directly** to explore the code for each deployment.
 
 
 ---
@@ -56,9 +67,7 @@ pip install -r requirements.txt
 # Run Streamlit app
 streamlit run app.py
 ```
-## 📜 License  
 
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
 ## 🚀 Deployment Guide  
 
@@ -86,7 +95,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 - **Hugging Face Transformers** – Pre-trained models for retrieval & generation  
 - **RAG Architecture** – Retriever + Generator pipeline for intelligent responses  
 - **Deployment** – Hosted on Hugging Face Spaces & Streamlit Cloud
-  ## 📜 License  
 
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
+## 📜 License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.    
 
