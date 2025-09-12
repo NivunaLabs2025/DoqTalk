@@ -15,8 +15,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 | **Self_RAG** | Self-consistency RAG (re-ranks multiple answers) | [Self RAG](./Self%20RAG) | [🔗 Live](#) | [🔗 Live](#) |
 | **Hyde_RAG** | Hypothetical Document Embedding (HyDE) | [HyDE RAG](./HyDE%20RAG) | [🔗 Live](#) | [🔗 Live](#) |
 | **Hyqe_RAG** | Hybrid Query Expansion RAG | [Fusion RAG](./Fusion%20RAG) | [🔗 Live](#) | [🔗 Live](#) |
-
-> ⚠️ Replace the placeholders (`#`) with your **own deployment links** from Hugging Face Spaces and Streamlit Cloud.  
+ 
 
 ---
 
@@ -32,7 +31,6 @@ Here are quick walkthroughs showing the chatbots running live on both platforms:
 ### 🤗 Hugging Face Spaces Demo  
 ![Hugging Face Demo](./assets/Hugging_face.gif)  
 
-> ⚠️ Ensure these GIFs are your own screen recordings of the apps. Do not use other projects’ demos without permission.  
 
 ---
 
