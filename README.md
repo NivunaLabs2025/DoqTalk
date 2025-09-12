@@ -23,10 +23,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 
 Here are quick walkthroughs showing the chatbots running live on both platforms:  
 
-![My Demo](assets/myimage.png)
-git add assets/myimage.png README.md
-git commit -m "Add image to README"
-git push origin main
+![My Demo](assets/demo.png)
 
 
 ### 🚀 Streamlit Cloud Demo  
