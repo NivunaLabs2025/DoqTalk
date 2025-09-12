@@ -23,7 +23,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 
 Here are quick walkthroughs showing the chatbots running live on both platforms:  
 
-![Rag workflow Image](./images/Rag.png)
+![Rag workflow Image](./images/Rag.png)(https://github.com/NivunaLabs2025/DoqTalk/blob/main/rag.png)
 
 
 ### 🚀 Streamlit Cloud Demo  
