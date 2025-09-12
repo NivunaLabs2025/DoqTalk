@@ -13,7 +13,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 |---------|----------|--------|--------------|------------|
 | **General_RAG** | Standard RAG with vector DB retrieval | [General_RAG](./General_Rag) |[🔗 Space_link](https://huggingface.co/spaces/Rajesh010/Student-Assisted-Chatbot2) | [🔗 App_link](https://studentusingapi-bdtea2s4ktsr7dtgnbrug7.streamlit.app/) |
 | **Self_RAG** | Self-consistency RAG (re-ranks multiple answers) | [Self RAG](./Self_Rag) | [🔗 Space_link](#) | [🔗 App_link](#) |
-| **Hyde_RAG** | Hypothetical Document Embedding (HyDE) | [HyDE RAG](./HyDE_Rag) | [🔗 Space_link](#) | [🔗 App_link](#) |
+| **Hyde_RAG** | Hypothetical Document Embedding (HyDE) | [HyDE RAG](./HyDE_Rag) | [🔗 Space_link](https://huggingface.co/spaces/Rishitha3/HyDE) | [🔗 App_link](#) |
 | **Hyqe_RAG** | Hybrid Query Expansion RAG | [Fusion RAG](./Fusion_Rag) | [🔗 Space_link](https://huggingface.co/spaces/TrishaThanmai/Fusion_Rag) | [🔗 App_link](https://fusionrag-xyt8ey2tbb6ubocziz856h.streamlit.app/) |
  
 
