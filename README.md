@@ -20,7 +20,9 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 ---
 
 ## 🎥 Demos  
-Workflow of RAG
+🧩 Explaining the RAG Workflow (Beginner + Advanced View)
+
+Think of this workflow like a smart librarian who answers your questions by searching through books, organizing the info, and then explaining it back clearly.
 
 ![My Demo](assets/demo.png)
 
