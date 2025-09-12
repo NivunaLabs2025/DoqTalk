@@ -20,11 +20,11 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 ---
 
 ## 🎥 Demos  
-
-Here are quick walkthroughs showing the chatbots running live on both platforms:  
+Workflow of RAG
 
 ![My Demo](assets/demo.png)
 
+Here are quick walkthroughs showing the chatbots running live on both platforms:  
 
 ### 🚀 Streamlit Cloud Demo  
 ![Streamlit Demo](./assets/Stream_lit.gif)  
