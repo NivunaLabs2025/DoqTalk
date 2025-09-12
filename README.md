@@ -42,10 +42,10 @@ Each chatbot (RAG type) has **two deployment folders**:
 
 | Chatbot      | Hugging Face Folder | Streamlit Folder |
 |--------------|----------------------|------------------|
-| 🤖 **General_RAG** | [HuggingFace_Cloud](./General_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./General_RAG/Streamlit_Cloud) |
-| 🧠 **Self_RAG**   | [HuggingFace_Cloud](./Self_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Self_RAG/Streamlit_Cloud) |
-| 🕵️ **Hyde_RAG**   | [HuggingFace_Cloud](./Hyde_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyde_RAG/Streamlit_Cloud) |
-| ⚡ **Hyqe_RAG**   | [HuggingFace_Cloud](./Hyqe_RAG/HuggingFace_Cloud) | [Streamlit_Cloud](./Hyqe_RAG/Streamlit_Cloud) |
+| 🤖 **General_RAG** | [HuggingFace_Cloud](./General_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./General_Rag/Streamlit%20cloud) |
+| 🧠 **Self_RAG**   | [HuggingFace_Cloud](./Self_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./Self_Rag/Streamlit%20cloud) |
+| 🕵️ **Hyde_RAG**   | [HuggingFace_Cloud](./HyDE_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./HyDE_Rag/Streamlit%20cloud) |
+| ⚡ **Hyqe_RAG**   | [HuggingFace_Cloud](./Fusion_Rag/HuggingFace%20cloud) | [Streamlit_Cloud](./Fusion_Rag/Streamlit%20cloud) |
 
 📌 This way, you don’t need to show the full folder tree. Readers can **click directly** to explore the code for each deployment.
 
