@@ -11,7 +11,7 @@ All chatbots are available with **Hugging Face Spaces** and **Streamlit Cloud** 
 
 | Chatbot | RAG Type | Folder | Hugging Face | Streamlit |
 |---------|----------|--------|--------------|------------|
-| **General_RAG** | Standard RAG with vector DB retrieval | [General_RAG](./General_Rag) | [🔗 Live](#) | [🔗 Live](#) |
+| **General_RAG** | Standard RAG with vector DB retrieval | [General_RAG](./General_Rag) | [🔗 Live](#https://huggingface.co/spaces/Rajesh010/Student-Assisted-Chatbot2) | [🔗 Live](#) |
 | **Self_RAG** | Self-consistency RAG (re-ranks multiple answers) | [Self RAG](./Self_Rag) | [🔗 Live](#) | [🔗 Live](#) |
 | **Hyde_RAG** | Hypothetical Document Embedding (HyDE) | [HyDE RAG](./HyDE_Rag) | [🔗 Live](#) | [🔗 Live](#) |
 | **Hyqe_RAG** | Hybrid Query Expansion RAG | [Fusion RAG](./Fusion_Rag) | [🔗 Live](#) | [🔗 Live](#) |
