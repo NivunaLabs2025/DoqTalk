@@ -88,4 +88,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 - **Hugging Face Transformers** – Pre-trained models for retrieval & generation  
 - **RAG Architecture** – Retriever + Generator pipeline for intelligent responses  
 - **Deployment** – Hosted on Hugging Face Spaces & Streamlit Cloud
-  
+  ## 📜 License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
+
